@@ -1,0 +1,11 @@
+# CMake Build folder
+/build
+
+# bin directory
+/bin
+
+# CMake Cache directory
+/.cache
+
+# Apple crap
+.DS_Store
